@@ -39,8 +39,7 @@ It is designed for fast local analysis and one-click export to **TXT** and **PDF
 File_Detals/
 ├── main.py
 ├── logo.png
-├── logo.ico
-└── setup.py
+└── logo.ico
 ```
 
 ## Getting Started
@@ -48,7 +47,7 @@ File_Detals/
 ### 1) Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/rifatsoftdev/File_Analyzer.git
 cd File_Detals
 ```
 
